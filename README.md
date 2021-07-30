@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpriteLo
-- 👀 I’m interested in gaming, reading, tech
+- 👀 I’m interested in gaming, reading, tech and sports
 - 🌱 I’m currently learning statistical digital packages, Python, SQL and Github
 - 💞️ I’m looking to collaborate on basic coding and data analysis
 - 📫 How to reach me email: lao1988@sky.com
